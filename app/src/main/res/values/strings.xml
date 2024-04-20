@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grub</string>
+    <string name="apiKey">40f99deab257456ba0c6076670e916e2</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="ingredients">Ingredients</string>
+    <string name="search_here">Search Here</string>
+    <string name="search_recipe">Search Recipe\n</string>
+    <string name="search_on_web_browser">Search on Web Browser</string>
+    <string name="imageview">Imageplaceholder</string>
+    <string name="dish_title">Dish Name</string>
+    <string name="app_id">f072144d</string>
+    <string name="searchBtn">SearchBtn</string>
+    <string name="closebtn">closeBtn</string>
+</resources>
